@@ -1,4 +1,4 @@
-# 🚀 Collins Mutugi  
+# Collins Mutugi  
 ### Senior Mobile System Architect | Flutter • Native • AI
 
 <p align="left">
