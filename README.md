@@ -9,10 +9,6 @@
   <a href="https://github.com/collo54">
     <img src="https://img.shields.io/badge/GitHub-collo54-black?style=for-the-badge&logo=github">
   </a>
-
-  <a href="https://x.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/X(Twitter)-Follow-black?style=for-the-badge&logo=x">
-  </a>
 </p>
 
 ---
